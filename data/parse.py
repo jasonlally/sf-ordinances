@@ -47,5 +47,28 @@ for line in data:
 					json_final[index - 1]['desc'] = unicode(line.rstrip())
 			found = False
 
+for obj in json_final:
+	desc = obj['desc']
+	#Code change
+	code_change = re.search('Sections Affected:', desc)
+	if code_change:
+		obj["otype"] = "Code Change"
+		continue
+	#Settlement
+	settlement = re.search('Settlement',desc)
+	if settlement:
+		obj["otype"] = "Settlement"
+		continue
+	#Appropriation
+	appropriation = re.search('\$[0-9]{1,3}', desc)
+	if appropriation:
+		obj["otype"] = "Appropriation"
+		continue
+	mou = re.search('Memorandum of Understanding', desc)
+	if mou:
+		obj["otype"] = "Memorandum of Understanding"
+		continue
+	obj["otype"] = "Other"
+
 print json.dumps(json_final, sort_keys=False, indent=4, separators=(',', ': '))
 

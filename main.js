@@ -49,8 +49,9 @@ var data = {};
 	    }
 	  	var ordno = $('<td>', {html: item.ordno});
 	 		var fileno = $('<td>', {html: item.fileno});
+	 		var otype = $('<td>', {html: item.otype});
 	   	var desc = $('<td>', {html: item.desc});
-	    table_row.append(date).append(ordno).append(fileno).append(desc);
+	    table_row.append(date).append(ordno).append(fileno).append(otype).append(desc);
 	    table_obj.append(table_row);
 	  })
 	  //console.log(data);
@@ -62,13 +63,6 @@ var data = {};
 	  	chart_data.push({x: parseInt(index), y: item});
 	  })
 	  chart_data = _.sortBy(chart_data, function(o){ return o.x });
-	  console.log(chart_data);
-	  /*var aggregated = d3.nest()
-                   .key(function(d) { return (new Date(+d.x * 1000)).getMonth(); })
-                   .rollup(function(d) { return d3.sum(d, function(e) { return +e.y; }); })
-                   .entries(chart_data)
-                   .map(function(d) { return {x: +d.key, y: d.values}; });
-		console.log(aggregated);*/
 		var w = 1100;
 		var h = 300;
 
@@ -126,9 +120,9 @@ var data = {};
 		xAxis.render();
 		xAxis2.render();
 		// set up events for the over
-	$('div.detail').on('click', 'div', function(event) {
-   // do something here
-   console.log("hey!");
-});
-	})
+		$('div#chart svg').on('click', 'rect', function(event) {
+		   // do something here
+		   console.log(this);
+		});
+	});
 })();
