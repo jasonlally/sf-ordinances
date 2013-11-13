@@ -39,6 +39,13 @@ body {
 	border: 1px solid rgba(0,0,0,1);
 	bottom: -20px;
 }
+.rickshaw_graph .x_tick.plain .title {
+	color: #FFF;
+}
+.rickshaw_graph .x_tick {
+	border: none;
+}
+
 .rickshaw_graph .detail {
 	pointer-events: auto;
 }

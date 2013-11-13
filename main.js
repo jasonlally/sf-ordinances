@@ -102,7 +102,15 @@ var data = {};
 			graph: graph,
 			timeUnit: year,
 			ticksTreatment: 'year'
-		})
+		});
+
+		var yAxis = new Rickshaw.Graph.Axis.Y( {
+	    graph: graph,
+	    orientation: 'left',
+	    element: document.getElementById('y_axis'),
+		});
+
+		yAxis.render();
 
 		var hoverDetail = new Rickshaw.Graph.HoverDetail( {
 			graph: graph,
