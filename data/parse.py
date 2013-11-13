@@ -8,15 +8,16 @@ index = 0
 for line in data:
 	found = True
 	while found:
-		ordno_search = re.search('([1-9][0-9]{0,2}-1[123])', line)
+		ordno_search = re.search('(?<![0-9]\.)([0-9]{1,3}-1[123])(?=[0-9])', line) #([1-9][0-9]{0,2}-1[123])
 		if ordno_search:
 			#If there's a dollar value or Fiscal Year range preceeding the ordinance number, let's give it some space
-			money_search = re.search('((\$[0-9]{1,3}(,[0-9]{3})+)(?=[0-9])|(FY[0-9]+-[0-9]{4})(?=[0-9]))', line[0:ordno_search.end(1)])
+			#Matches any value starting with a dollar sign followed by 1 to 3 digits, followed by 1 or more sets of ",xxx", optionally followed by ".xx" (only some dollar figures contain decimals), finally all of this must proceed another number digit OR search for FY xxxx-xxxx proceeded by a single number digit
+			money_search = re.search('((\$[0-9]{1,3}(,[0-9]{3})+)(\.[0-9]{2})?(?=[0-9])|(FY\s?[0-9]+-[0-9]{4})(?=[0-9]))', line[0:ordno_search.end(1)])
 			if money_search:
 				#put space between the dollar value and the ord no, and re-run regex
 				money = money_search.group(1) #.encode('utf-8')
 				line = line.replace(money, money + " ")
-				ordno_search = re.search('([1-9][0-9]{0,2}-1[123])', line)
+				ordno_search = re.search('(?<![0-9]\.)([0-9]{1,3}-1[123])(?=[0-9])', line)
 			#This takes care of removing the text headers for the table just before the first value
 			ordno = ordno_search.group(1)
 			if len(ordno) == 4 and ordno[0] == str(1):

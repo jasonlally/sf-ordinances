@@ -16,6 +16,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/rickshaw.min.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -48,13 +49,18 @@
     </div>
 
     <div class="container">
-      <table class="table">
+      <div id="chart_container">
+        <div id="y_axis"></div>
+        <div id="chart"></div>
+      </div>
+      <table id="ordinance-table" class="table">
         <thead>
           <tr>
             <th>Effective Date</th>
             <th>Ordinance Number</th>
             <th>File Number</th>
             <th>Description</th>
+          </tr>
         </thead>
         <tbody id="ordinance-list" class="table-striped"></tbody>
       </table>
@@ -66,6 +72,10 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.tablesorter.min.js"></script> 
+    <script src="js/d3.v3.min.js" charset="utf-8"></script>
+    <script src="js/rickshaw.min.js" charset="utf-8"></script>
+    <script src="js/underscore.min.js" charset="utf-8"></script>
     <script src="main.js"></script>
   </body>
 </html>

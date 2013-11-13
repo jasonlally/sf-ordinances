@@ -1,7 +1,41 @@
 body {
-  padding-top: 50px;
+  padding-top: 60px;
 }
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+}
+
+#chart {
+    display: inline-block;
+}
+#legend {
+    display: inline-block;
+    position: relative;
+    left: 8px;
+}
+#legend_container {
+    position: absolute;
+    right: 0;
+    bottom: 26px;
+    width: 0;
+}
+
+#chart_container {
+    float: left;
+    position: relative;
+}
+#chart {
+    position: relative;
+    left: 40px;
+}
+#y_axis {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 40px;
+}
+.rickshaw_graph .x_tick.year {
+	border: 1px solid rgba(0,0,0,1);
+	bottom: -20px;
 }
