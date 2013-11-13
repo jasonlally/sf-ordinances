@@ -74,36 +74,20 @@ var data = {};
 
 		var graph = new Rickshaw.Graph({
         element: document.querySelector("#chart"),
-        renderer: 'line',
+        renderer: 'bar',
         width: w,
         height: h,
-        series: [{
-                data: chart_data,
-                color: 'steelblue'
-        }]
+        series: [
+        	{
+            name: 'Ordinances',
+            data: chart_data,
+            color: 'steelblue'
+        	}
+        ]
 		});
 
 		var chart_svg = d3.select("#chart svg").attr("viewBox", "0 0 " + w + " " + h )
     		 .attr("preserveAspectRatio", "xMinYMin");
-/*
-    var force = d3.layout.force()
-    	.nodes(nodes)
-    	.links(links)
-    	.size([w, h]);
-
-    force.on("tick", function() {
-		  chart_svg.selectAll("line.link")
-		    .attr("x1", function(d) { return d.source.x; })
-	      .attr("y1", function(d) { return d.source.y; })
-	      .attr("x2", function(d) { return d.target.x; })
-	      .attr("y2", function(d) { return d.target.y; });
-
-		  chart_svg.selectAll("circle.node")
-	      .attr("cx", function(d) { return d.x; })
-	      .attr("cy", function(d) { return d.y; });
-		});
-*/
-		console.log(graph);
 
 		var time = new Rickshaw.Fixtures.Time();
 		var month = time.unit('month');
@@ -119,10 +103,24 @@ var data = {};
 			timeUnit: year,
 			ticksTreatment: 'year'
 		})
- 
+
+		var hoverDetail = new Rickshaw.Graph.HoverDetail( {
+			graph: graph,
+			formatter: function(series, x, y) {
+				var d = new Date(x * 1000)
+				var date = '<span class="date">' + (d.getMonth() + 1) + '/' + d.getFullYear() + '</span>';
+				var swatch = '<span class="detail_swatch" style="background-color: ' + series.color + '"></span>';
+				var content = swatch + series.name + ": " + parseInt(y) + '<br>' + date;
+				return content;
+			}
+		});
 		graph.render();
 		xAxis.render();
 		xAxis2.render();
-
+		// set up events for the over
+	$('div.detail').on('click', 'div', function(event) {
+   // do something here
+   console.log("hey!");
+});
 	})
 })();

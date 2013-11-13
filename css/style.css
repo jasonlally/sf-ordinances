@@ -39,3 +39,9 @@ body {
 	border: 1px solid rgba(0,0,0,1);
 	bottom: -20px;
 }
+.rickshaw_graph .detail {
+	pointer-events: auto;
+}
+.rickshaw_graph .detail .x_label { display: none }
+.rickshaw_graph .detail .item { line-height: 1.4; padding: 0.5em }
+.rickshaw_graph .detail .date { color: #a0a0a0 }
