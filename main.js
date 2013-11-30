@@ -134,8 +134,6 @@ var data = {};
             selectedBar = false;
           }
           var selectedDate = new Date(chart_data[$(this).index()].x * 1000)
-          console.log(selectedDate.getMonth() + 1);
-          console.log(selectedDate.getYear());
           filterByDate(selectedDate.getMonth() + 1, selectedDate.getFullYear())
         });
       });
