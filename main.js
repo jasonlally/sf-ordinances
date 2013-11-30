@@ -47,7 +47,8 @@ var data = {};
           data[datef] += 1;
         }
       }
-      var ordno = $('<td>', {html: item.ordno});
+      var ordlink = $('<a>', {html: item.ordno, href: item.url, target: "_blank"});
+      var ordno = $('<td>').append(ordlink);
       var fileno = $('<td>', {html: item.fileno});
       var otype = $('<td>', {html: item.otype});
       var desc = $('<td>', {html: item.desc});
@@ -133,8 +134,8 @@ var data = {};
           } else {
             selectedBar = false;
           }
-          var selectedDate = new Date(chart_data[$(this).index()].x * 1000)
-          filterByDate(selectedDate.getMonth() + 1, selectedDate.getFullYear())
+          var selectedDate = new Date(chart_data[$(this).index()].x * 1000);
+          filterByDate(selectedDate.getMonth() + 1, selectedDate.getFullYear());
         });
       });
 })();

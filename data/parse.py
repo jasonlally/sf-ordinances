@@ -36,7 +36,10 @@ for line in data:
 					date = "TBD"
 			fileno = line[ordno_search.end(1):ordno_search.end(1)+6]
 			line = line[date_search.end(1):len(line)]
-			json_str = {"ordno" : unicode(ordno), "fileno" : unicode(fileno), "date": unicode(date)}
+			ordno_padded = ordno
+			for i in range(len(ordno),7):
+				ordno_padded = '0' + ordno_padded
+			json_str = {"ordno" : unicode(ordno), "fileno" : unicode(fileno), "date": unicode(date), "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances" + ordno[-2:] + "/o" + ordno_padded + ".pdf"}
 			json_final.append(json_str)
 			index = index + 1
 		else:
