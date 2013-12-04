@@ -18,3 +18,6 @@ Here are a couple of areas that could use some talent and insight:
 4. Extract better data from the text (currently missing as discrete data: sections affected by revisions and whether they were amended, repealed or approved, better categories for the ordinances)
 5. Improve charting/visualizations generally (display chart of ordinances by type over time, display dollar amounts represented by appropriations or settlements, display which sections of the code have been most affected by ordinance changes, etc)
 6. And generally clean up code (I got it to do something, but it's ugly and inefficient)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jasonlally/sf-ordinances/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
