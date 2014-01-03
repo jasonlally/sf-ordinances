@@ -93,15 +93,7 @@
         "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances11/o0012-11.pdf",
         "otype": "Code Change",
         "date": "02/13/11",
-        "desc": "Public Works Code, Administrative Code - Personal Wireless Service Facility Site Permits and Associated Fees  Sections Affected: Administrative Code:  11.9 (Amended) Public Works Code:  Art. 25, Secs. 1500 to 1528 (Added)"
-    },
-    {
-        "fileno": "101445",
-        "ordno": "13-11",
-        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances11/o0013-11.pdf",
-        "otype": "Code Change",
-        "date": "02/17/11",
-        "desc": "Public Works Code - Banners on the Path of Gold  Sections Affected: Public Works Code:  184.78 (Amended)"
+        "desc": "Public Works Code, Administrative Code - Personal Wireless Service Facility Site Permits and Associated Fees  Sections Affected: Administrative Code:  11.9 (Amended) Public Works Code:  Art. 25, Secs. 1500 to 1528 (Added)13-4410144502/17/11Public Works Code - Banners on the Path of Gold  Sections Affected: Public Works Code:  184.78 (Amended)"
     },
     {
         "fileno": "101499",
@@ -4029,7 +4021,7 @@
         "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances12/o0249-12.pdf",
         "otype": "Settlement",
         "date": "12/18/12",
-        "desc": "Settlement of Lawsuit - Pacific Rod and Gun Club  2013 Ordinances"
+        "desc": "Settlement of Lawsuit - Pacific Rod and Gun Club 2013 Ordinances"
     },
     {
         "fileno": "120997",
@@ -4037,7 +4029,7 @@
         "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0001-13.pdf",
         "otype": "Appropriation",
         "date": "01/16/13",
-        "desc": " Appropriating $1,412,000 for San Francisco Unified School District - FY2012-2013 "
+        "desc": "Appropriating $1,412,000 for San Francisco Unified School District - FY2012-2013 "
     },
     {
         "fileno": "120434",
@@ -5413,7 +5405,7 @@
         "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0173-13.pdf",
         "otype": "Code Change",
         "date": "09/01/13",
-        "desc": "Park Code - Various Fees  Sections Affected: ParkCode:  12.11, 12.21, 12.46 (Amended); 12.26, 12.31 (Repealed)"
+        "desc": "Park Code - Various Fees  Sections Affected: Park Code:  12.11, 12.21, 12.46 (Amended); 12.26, 12.31 (Repealed)"
     },
     {
         "fileno": "130550",
@@ -5493,7 +5485,7 @@
         "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0183-13.pdf",
         "otype": "Code Change",
         "date": "09/06/13",
-        "desc": "Planning, Environment Codes - Bicycle Parking Standards; In Lieu Fee  Sections Affected: EnvironmentCode:  402 (Amended) Planning Code:  430.1, 431 (Added); 150, 153, 155.1, 155.2, 155.3, 155.4, 157.1, 249.46, 305, 307, 430 (Amended); 155.5 (Repealed)"
+        "desc": "Planning, Environment Codes - Bicycle Parking Standards; In Lieu Fee  Sections Affected: Environment Code:  402 (Amended) Planning Code:  430.1, 431 (Added); 150, 153, 155.1, 155.2, 155.3, 155.4, 157.1, 249.46, 305, 307, 430 (Amended); 155.5 (Repealed)"
     },
     {
         "fileno": "130460",
@@ -5619,9 +5611,9 @@
         "fileno": "130782",
         "ordno": "199-13",
         "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0199-13.pdf",
-        "otype": "Other",
+        "otype": "Code Change",
         "date": "11/02/13",
-        "desc": "Building, Housing Codes - Mandatory Seismic Retrofit Program - Wood-Frame Buildings"
+        "desc": "Building, Housing Codes - Mandatory Seismic Retrofit Program - Wood-Frame Buildings  Sections Affected: Building Code:  105A, 3404, 3406B (Amended) Housing Code:  351 (Amended)"
     },
     {
         "fileno": "130786",
@@ -5661,7 +5653,7 @@
         "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0204-13.pdf",
         "otype": "Code Change",
         "date": "11/07/13",
-        "desc": "Administrative Code - Due Process for All Ordinance on Civil Immigration Detainers  Sections Affected: Administrative Code:  Ch. 12I, Secs. 12I.1, 12I.2, 12I.3, 12I.4, 12I.5, 12I.6, 12I.7 (Added)"
+        "desc": "Administrative Code - Due Process Ordinance for All on Civil Immigration Detainers  Sections Affected: Administrative Code:  Ch. 12I, Secs. 12I.1, 12I.2, 12I.3, 12I.4, 12I.5, 12I.6, 12I.7 (Added)"
     },
     {
         "fileno": "130781",
@@ -5677,7 +5669,7 @@
         "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0206-13.pdf",
         "otype": "Code Change",
         "date": "11/10/13",
-        "desc": "*Business and Tax Regulations Code - Miscellaneous Changes  Sections Affected: Business and Tax Regulations Code:  6.6-1, 6.8-1, 6.9-1*, 6.9-3*, 6.9-4, 6.9-5, 6.9-6, 6.11-1, 6.11-2, 6.11-3, 6.17-2, 6.17-3, 6.21-1, 607, 859, 860, 905-A*, 906.3, 2219.6 (Amended)  * Certain amendments to these sections are operative on 1/1/2014; see \u00a7 7(b) of the ordinance"
+        "desc": "*Business and Tax Regulations Code - Miscellaneous Changes  Sections Affected: Business and Tax Regulations Code:  6.6-1, 6.8-1, 6.9-1*, 6.9-3*, 6.9-4, 6.9-5, 6.9-6, 6.11-1, 6.11-2, 6.11-3, 6.17-2, 6.17-3, 6.21-1, 607, 859, 860, 905-A*, 906.3, 2219.6 (Amended)  * Amendments to these sections are operative on 1/1/2014; see \u00a7 7(b) of the ordinance"
     },
     {
         "fileno": "130861",
@@ -5701,7 +5693,7 @@
         "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0209-13.pdf",
         "otype": "Code Change",
         "date": "11/08/13",
-        "desc": "  [Oper. 01/01/14]Administrative Code - Family Friendly Workplace Ordinance  Sections Affected: Administrative Code:  Ch. 12Z (Added)"
+        "desc": "  [Oper. 01/01/14]Administrative Code - Family Friendly Workplace Ordinance  Sections Affected: Administrative Code:  Ch. 12Z, Secs. 12Z.1, 12Z.2, 12Z.3, 12Z.4, 12Z.5, 12Z.6, 12Z.7, 12Z.8, 12Z.9, 12Z.10, 12Z.11, 12Z.12, 12Z.13, 12Z.14, 12Z.15, 12Z.16, 12Z.17, 12Z.18 (Added)"
     },
     {
         "fileno": "130863",
@@ -5789,6 +5781,454 @@
         "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0220-13.pdf",
         "otype": "Settlement",
         "date": "10/11/13",
-        "desc": "Settlement of Lawsuit - E. Lynn Schoenmann - $160,000 Ordinances that amend the Municipal Code and are not yet effective have their identifiying information highlighted in yellow. Changes made by those ordinances are not incorporated into the text of the Code until the amending ordinances are effective."
+        "desc": "Settlement of Lawsuit - E. Lynn Schoenmann - $160,000 "
+    },
+    {
+        "fileno": "130790",
+        "ordno": "221-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0221-13.pdf",
+        "otype": "Code Change",
+        "date": "12/01/13",
+        "desc": "Business and Tax Regulations, Police Codes - Renting Parking Spaces at Residential Properties to Non-Residents  Sections Affected: Business and Tax Regulations Code:  609 (Amended) Police Code:  1215 (Amended)"
+    },
+    {
+        "fileno": "130883",
+        "ordno": "222-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0222-13.pdf",
+        "otype": "Appropriation",
+        "date": "11/01/13",
+        "desc": "Appropriation - Certificates of Participation - Utility Infrastructure System - Treasure Island - $13,500,000 - FY2013-2014 "
+    },
+    {
+        "fileno": "130912",
+        "ordno": "223-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0223-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - Automotive Machinists Union, Local 1414, Machinists Automotive Trades District 190, International Association of Machinists and Aerospace Workers"
+    },
+    {
+        "fileno": "130913",
+        "ordno": "224-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0224-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - Crafts Coalition"
+    },
+    {
+        "fileno": "130914",
+        "ordno": "225-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0225-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 2 - Crafts Coalition"
+    },
+    {
+        "fileno": "130915",
+        "ordno": "226-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0226-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - San Francisco District Attorney Investigators' Association"
+    },
+    {
+        "fileno": "130916",
+        "ordno": "227-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0227-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - San Francisco Deputy Probation Officers' Association"
+    },
+    {
+        "fileno": "130917",
+        "ordno": "228-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0228-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 2 - San Francisco Deputy Probation Officers' Association"
+    },
+    {
+        "fileno": "130918",
+        "ordno": "229-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0229-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 2 - San Francisco Deputy Sheriffs' Association"
+    },
+    {
+        "fileno": "130919",
+        "ordno": "230-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0230-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - International Brotherhood of Electrical Workers, Local 6"
+    },
+    {
+        "fileno": "130920",
+        "ordno": "231-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0231-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - International Federation of Professional and Technical Engineers, AFL-CIO, Local 21"
+    },
+    {
+        "fileno": "130921",
+        "ordno": "232-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0232-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 2 - International Federation of Professional and Technical Engineers, AFL-CIO, Local 21"
+    },
+    {
+        "fileno": "130922",
+        "ordno": "233-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0233-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - San Francisco Institutional Police Officers' Association"
+    },
+    {
+        "fileno": "130923",
+        "ordno": "234-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0234-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - Municipal Attorneys' Association"
+    },
+    {
+        "fileno": "130924",
+        "ordno": "235-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0235-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 2 - San Francisco Sheriffs' Managers and Supervisors Association"
+    },
+    {
+        "fileno": "130925",
+        "ordno": "236-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0236-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - Operating Engineers Local Union No. 3 of the International Union of Operating Engineers, AFL-CIO"
+    },
+    {
+        "fileno": "130926",
+        "ordno": "237-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0237-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - San Francisco City Workers United"
+    },
+    {
+        "fileno": "130927",
+        "ordno": "238-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0238-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry, Local 38"
+    },
+    {
+        "fileno": "130928",
+        "ordno": "239-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0239-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 2 - United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry, Local 38"
+    },
+    {
+        "fileno": "130929",
+        "ordno": "240-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0240-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - Stationary Engineers, Local 39"
+    },
+    {
+        "fileno": "130930",
+        "ordno": "241-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0241-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - Operating Engineers Local Union No. 3 of the International Union of Operating Engineers, AFL-CIO, Supervising Probation Officers"
+    },
+    {
+        "fileno": "130931",
+        "ordno": "242-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0242-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - Teamsters, Local 856 (Multi-Unit)"
+    },
+    {
+        "fileno": "130932",
+        "ordno": "243-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0243-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 2 - Teamsters, Local 856 (Multi-Unit)"
+    },
+    {
+        "fileno": "130933",
+        "ordno": "244-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0244-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - The Transport Workers Union, AFL-CIO, Local 200"
+    },
+    {
+        "fileno": "130934",
+        "ordno": "245-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0245-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 2 - The Transport Workers Union, AFL-CIO, Local 200"
+    },
+    {
+        "fileno": "130935",
+        "ordno": "246-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0246-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - Union of American Physicians and Dentists (Unit 17)"
+    },
+    {
+        "fileno": "130936",
+        "ordno": "247-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0247-13.pdf",
+        "otype": "Other",
+        "date": "12/08/13",
+        "desc": "Collective Bargaining Agreement, Amendment No. 1 - Union of American Physicians and Dentists (Unit 18)"
+    },
+    {
+        "fileno": "130372",
+        "ordno": "248-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0248-13.pdf",
+        "otype": "Code Change",
+        "date": "12/08/13",
+        "desc": "Planning Code, Zoning Map - Third Street Formula Retail Restricted Use District  Sections Affected: Planning Code:  786 (Added); 303 (Amended) Zoning Map:  SU10 (Amended)"
+    },
+    {
+        "fileno": "130585",
+        "ordno": "249-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0249-13.pdf",
+        "otype": "Code Change",
+        "date": "12/08/13",
+        "desc": "Police Code - Large Capacity Magazines; Sales of Firearms and Ammunition; Reporting Lost or Stolen Firearms; Shooting Ranges  Sections Affected: Police Code:  619 (Added); 613.10, 615, 616, 1040 (Amended)"
+    },
+    {
+        "fileno": "130584",
+        "ordno": "250-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0250-13.pdf",
+        "otype": "Code Change",
+        "date": "12/08/13",
+        "desc": "Administrative Code - California Benefit Corporation Discount Program - Contract Monitoring Division  Sections Affected: Administrative Code:  14C.2, 14C.3 (Amended)"
+    },
+    {
+        "fileno": "130822",
+        "ordno": "251-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0251-13.pdf",
+        "otype": "Code Change",
+        "date": "12/14/13",
+        "desc": "Administrative Code - Mayor's Fund for the Homeless  Sections Affected: Administrative Code:  10.100-106 (Amended)"
+    },
+    {
+        "fileno": "130882",
+        "ordno": "252-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0252-13.pdf",
+        "otype": "Code Change",
+        "date": "12/14/13",
+        "desc": "Park Code - Harding Park Golf Course Temporary Reduced Greens Fees  Sections Affected: Park Code:  12.12.1 (Amended)"
+    },
+    {
+        "fileno": "130673",
+        "ordno": "253-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0253-13.pdf",
+        "otype": "Other",
+        "date": "12/14/13",
+        "desc": "Naming a Portion of the Carolina Street Stairway as Jack Balestreri Way - Carolina and 20th Street"
+    },
+    {
+        "fileno": "130836",
+        "ordno": "254-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0254-13.pdf",
+        "otype": "Other",
+        "date": "12/14/13",
+        "desc": "Building Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition"
+    },
+    {
+        "fileno": "130837",
+        "ordno": "255-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0255-13.pdf",
+        "otype": "Other",
+        "date": "12/14/13",
+        "desc": "Building Code - Residential Building Requirements"
+    },
+    {
+        "fileno": "130838",
+        "ordno": "256-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0256-13.pdf",
+        "otype": "Other",
+        "date": "12/14/13",
+        "desc": "Electrical Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition"
+    },
+    {
+        "fileno": "130839",
+        "ordno": "257-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0257-13.pdf",
+        "otype": "Other",
+        "date": "12/14/13",
+        "desc": "Mechanical Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition"
+    },
+    {
+        "fileno": "130840",
+        "ordno": "258-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0258-13.pdf",
+        "otype": "Other",
+        "date": "12/14/13",
+        "desc": "Plumbing Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition"
+    },
+    {
+        "fileno": "130841",
+        "ordno": "259-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0259-13.pdf",
+        "otype": "Other",
+        "date": "12/14/13",
+        "desc": "Green Building Code - Enactment of New Code"
+    },
+    {
+        "fileno": "130814",
+        "ordno": "260-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0260-13.pdf",
+        "otype": "Code Change",
+        "date": "12/14/13",
+        "desc": "Public Works Code - Control of Construction Site Runoff  Sections Affected: Public Works Code:  146, 146.1, 146.2, 146.3, 146.4, 146.5, 146.6, 146.7, 146.8, 146.9, 146.10, 146.11 (Added)"
+    },
+    {
+        "fileno": "130084",
+        "ordno": "261-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0261-13.pdf",
+        "otype": "Code Change",
+        "date": "12/27/13",
+        "desc": "Planning Code, Zoning Map - Establishing the Excelsior Outer Mission Street Neighborhood Commercial District  Sections Affected: Planning Code:  745.1 (Added); 201, 207.4, 249.35, 263.20, 607.1, 702.1, 702.3 (Amended); 785 (Repealed) Zoning Map:  ZN08 (Amended)"
+    },
+    {
+        "fileno": "130400",
+        "ordno": "262-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0262-13.pdf",
+        "otype": "Code Change",
+        "date": "12/27/13",
+        "desc": "Health Code - Massage Practitioners  Sections Affected: Health Code:  29.1, 29.2, 29.3, 29.4, 29.5, 29.6, 29.7, 29.8, 29.9, 29.10, 29.11, 29.12, 29.13, 29.14, 29.15, 29.16, 29.17, 29.18, 29.19, 29.20, 29.21, 29.22, 29.23, 29.24, 29.25, 29.26, 29.27, 29.28, 29.29, 29.30, 29.31, 29.32 (Added); 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910, 1912, 1913, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1925, 1926, 1927, 1928, 1928.1, 1928.2, 1929, 1930, 1931 (Amended and/or Renumbered); 1911, 1914, 1924 (Repealed)"
+    },
+    {
+        "fileno": "130549",
+        "ordno": "263-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0263-13.pdf",
+        "otype": "Code Change",
+        "date": "12/27/13",
+        "desc": "Planning Code - Controller's Reports  Sections Affected: Planning Code:  409, 413.6, 415.5, 418.5, 418.7, 420.6, 421.5, 422.5, 423.5, 424.5 (Amended)"
+    },
+    {
+        "fileno": "130734",
+        "ordno": "264-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0264-13.pdf",
+        "otype": "Code Change",
+        "date": "12/27/13",
+        "desc": "Administrative Code - Planning Commission Review of Medical Cannabis Dispensary Location Regulations  Sections Affected: Administrative Code:  2A.54 (Added)"
+    },
+    {
+        "fileno": "130766",
+        "ordno": "265-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0265-13.pdf",
+        "otype": "Code Change",
+        "date": "12/27/13",
+        "desc": "Park Code - Hours of Operation for City Parks  Sections Affected: Park Code:  3.21 (Added); 3.03 (Amended)"
+    },
+    {
+        "fileno": "130789",
+        "ordno": "266-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0266-13.pdf",
+        "otype": "Code Change",
+        "date": "12/27/13",
+        "desc": "Health Code - Licensing and Regulations of Massage Establishments and Practitioners  Sections Affected: Health Code:  29.6, 29.11, 29.12, 29.27 (Amended)"
+    },
+    {
+        "fileno": "130799",
+        "ordno": "267-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0267-13.pdf",
+        "otype": "Code Change",
+        "date": "12/27/13",
+        "desc": "Administrative Code - Airport Capital Improvement Promotion and Event Fund  Sections Affected: Administrative Code:  10.100-18 (Amended)"
+    },
+    {
+        "fileno": "130937",
+        "ordno": "268-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0268-13.pdf",
+        "otype": "Code Change",
+        "date": "12/27/13",
+        "desc": "Administrative Code - Film Production Daily Use Fees; Film Rebate Program  Sections Affected: Administrative Code:  57.5, 57.8 (Amended)"
+    },
+    {
+        "fileno": "130797",
+        "ordno": "269-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0269-13.pdf",
+        "otype": "Appropriation",
+        "date": "12/27/13",
+        "desc": "Contract Amendment - Dominion Voting Systems, Inc. - Not to Exceed $19,690,933.25 "
+    },
+    {
+        "fileno": "130860",
+        "ordno": "270-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0270-13.pdf",
+        "otype": "Appropriation",
+        "date": "12/27/13",
+        "desc": "Appropriation - Parking Garage Revenue and Expenditure - $13,786,681 - FY2013-2014 "
+    },
+    {
+        "fileno": "131031",
+        "ordno": "271-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0271-13.pdf",
+        "otype": "Code Change",
+        "date": "12/27/13",
+        "desc": "  [Oper. 01/01/14]Business and Tax Regulations Code - Business Tax Installment Payments; Combined Reporting; Special Assessments  Sections Affected: Business and Tax Regulations Code:  6.1-1, 6.2-17, 6.6-1, 6.9-3, 6.9-5, 6.17-1, 6.17-2, 6.17-3, 6.21-1, 907, 956.3 (Amended)"
+    },
+    {
+        "fileno": "130955",
+        "ordno": "272-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0272-13.pdf",
+        "otype": "Settlement",
+        "date": "11/27/13",
+        "desc": "Settlement of Administrative Enforcement Action - San Francisco Bay Regional Water Quality Control Board - $608,310 "
+    },
+    {
+        "fileno": "130956",
+        "ordno": "273-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0273-13.pdf",
+        "otype": "Settlement",
+        "date": "11/27/13",
+        "desc": "Settlement of Lawsuit - Carlos Hutcherson, et al. - $125,000 "
+    },
+    {
+        "fileno": "131013",
+        "ordno": "274-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0274-13.pdf",
+        "otype": "Settlement",
+        "date": "11/27/13",
+        "desc": "Settlement of Lawsuits - Zeno Zimmerman - $145,000 "
+    },
+    {
+        "fileno": "131014",
+        "ordno": "275-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0275-13.pdf",
+        "otype": "Settlement",
+        "date": "11/27/13",
+        "desc": "Settlement of Lawsuit - Calkin, et al. - $862,500 "
+    },
+    {
+        "fileno": "131033",
+        "ordno": "276-13",
+        "url": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances13/o0276-13.pdf",
+        "otype": "Other",
+        "date": "11/27/13",
+        "desc": "California Code of Civil Procedure, Section 998 - Offer to Compromise to Defendants - Anshen and Allen, Architects Inc. Ordinances that amend the Municipal Code and are not yet effective have their identifiying information highlighted in yellow. Changes made by those ordinances are not incorporated into the text of the Code until the amending ordinances are effective."
     }
 ]

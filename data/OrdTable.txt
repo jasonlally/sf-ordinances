@@ -37,7 +37,7 @@ Administrative Code:  21.02, 21.03, 21.3, 21.5, 21.8, 21.32, 21.35, 21C.1, 21C.2
 
 Sections Affected:
 Administrative Code:  11.9 (Amended)
-Public Works Code:  Art. 25, Secs. 1500 to 1528 (Added)13-1110144502/17/11Public Works Code - Banners on the Path of Gold
+Public Works Code:  Art. 25, Secs. 1500 to 1528 (Added)13-4410144502/17/11Public Works Code - Banners on the Path of Gold
 
 Sections Affected:
 Public Works Code:  184.78 (Amended)14-1110149902/10/11Payment of Reward to John Doe - $10,00015-1110141003/09/11Airport Promotion and Event Fund16-1111002102/16/11Settlement of Lawsuit - Jason Davis - $4,000,00017-1110110503/20/11Environment Code - Existing Commercial Buildings Energy Performance
@@ -696,9 +696,8 @@ Environment Code:  2109 (Added)246-1212103612/07/12Settlement of Lawsuit - Gille
 
 Sections Affected:
 Planning Code:  411.9 (Added); 401, 402, 408, 411, 411.1, 411.2, 411.3, 411.4, 411.5, 411.7, 411.8 (Amended)248-1212098201/17/13Jack Early Commemorative Plaque - Stockton Street Adjacent to Washington Square249-1212110612/18/12Settlement of Lawsuit - Pacific Rod and Gun Club
-
 2013 Ordinances
-Ord. No. File No. Eff. DateShort Title and Code Sections Affected 1-1312099701/16/13 Appropriating $1,412,000 for San Francisco Unified School District - FY2012-20132-1312043402/23/13Police Code - Amendments to Junk Dealer and Junk Gatherer Permit Process
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected1-1312099701/16/13Appropriating $1,412,000 for San Francisco Unified School District - FY2012-20132-1312043402/23/13Police Code - Amendments to Junk Dealer and Junk Gatherer Permit Process
 
 Sections Affected:
 Police Code:  2.26, 2.27, 895, 974.1, 974.2, 974.4, 974.8, 974.9, 974.10-1, 974.11, 974.14-1, 974.14-2, 974.21, 974.22 (Amended); 896, 897, 898, 974.5, 974.6, 974.10-2, 974.23 (Repealed)3-1312088002/23/13Planning Code - Valencia Street Neighborhood Commercial Transit District
@@ -979,7 +978,7 @@ Sections Affected:
 Health Code:  128 (Amended)173-1313054809/01/13Park Code - Various Fees 
 
 Sections Affected:
-ParkCode:  12.11, 12.21, 12.46 (Amended); 12.26, 12.31 (Repealed)174-1313055009/01/13Police Code - Street Artist Certificate Fee 
+Park Code:  12.11, 12.21, 12.46 (Amended); 12.26, 12.31 (Repealed)174-1313055009/01/13Police Code - Street Artist Certificate Fee 
 
 Sections Affected:
 Police Code:  2404.1 (Amended)175-1313055109/01/13Police Code - Police Emergency Alarm Ordinance
@@ -1008,7 +1007,7 @@ Administrative Code:  31.08 (Amended)
 * See § 4 of the Ordinance regarding its conditional Operative Date.182-1313052709/07/13General Plan - San Francisco Bicycle Transportation Plan183-1313052809/06/13Planning, Environment Codes - Bicycle Parking Standards; In Lieu Fee 
 
 Sections Affected:
-EnvironmentCode:  402 (Amended)
+Environment Code:  402 (Amended)
 Planning Code:  430.1, 431 (Added); 150, 153, 155.1, 155.2, 155.3, 155.4, 157.1, 249.46, 305, 307, 430 (Amended); 155.5 (Repealed)184-1313046009/06/13Administrative Code - Airport Facilities Naming Advisory Committee 
 
 Sections Affected:
@@ -1024,7 +1023,11 @@ Sections Affected:
 Planning Code:  842 (Amended)198-1313067211/02/13Transportation Code - Disabled Parking Placard or License Plate Restrictions
 
 Sections Affected:
-Transportation Code:  7.2.44, 7.2.66 (Added)199-1313078211/02/13Building, Housing Codes - Mandatory Seismic Retrofit Program - Wood-Frame Buildings200-1313078611/02/13Fire Code - Repealing, Replacing, and Amending
+Transportation Code:  7.2.44, 7.2.66 (Added)199-1313078211/02/13Building, Housing Codes - Mandatory Seismic Retrofit Program - Wood-Frame Buildings
+
+Sections Affected:
+Building Code:  105A, 3404, 3406B (Amended)
+Housing Code:  351 (Amended)200-1313078611/02/13Fire Code - Repealing, Replacing, and Amending
 
 Sections Affected:
 Fire Code:  511.2 (Amended); entire Code repealed and replaced, effective January 1, 2014201-1313027611/02/13Business and Tax Regulations Code - Former Transfer Tax Review Board
@@ -1033,7 +1036,7 @@ Sections Affected:
 Business and Tax Regulations Code:  1111, 1115, 1115.1, 1115.3 (Amended); 1115.2 (Repealed)202-1313078011/02/13Setting San Francisco's Property Tax Rate and Establishing Pass-Through Rate for Residential Tenants - FY2013-2014203-1313070611/02/13Administrative Code - Residential Rent Ordinance, Tenant Financial Hardship Applications for Relief from Landlord Passthrough of Capital Improvement Costs
 
 Sections Affected:
-Administrative Code:  37.7 (Amended)204-1313076411/07/13Administrative Code - Due Process for All Ordinance on Civil Immigration Detainers
+Administrative Code:  37.7 (Amended)204-1313076411/07/13Administrative Code - Due Process Ordinance for All on Civil Immigration Detainers
 
 Sections Affected:
 Administrative Code:  Ch. 12I, Secs. 12I.1, 12I.2, 12I.3, 12I.4, 12I.5, 12I.6, 12I.7 (Added)205-1313078111/10/13Administrative Code - Special Tax Financing Law
@@ -1044,7 +1047,7 @@ Administrative Code:  43.10.26, 43.10.27 (Added); 43.10.15 (Amended)206-13130784
 Sections Affected:
 Business and Tax Regulations Code:  6.6-1, 6.8-1, 6.9-1*, 6.9-3*, 6.9-4, 6.9-5, 6.9-6, 6.11-1, 6.11-2, 6.11-3, 6.17-2, 6.17-3, 6.21-1, 607, 859, 860, 905-A*, 906.3, 2219.6 (Amended)
 
-* Certain amendments to these sections are operative on 1/1/2014; see § 7(b) of the ordinance207-1313086110/11/13Appropriation - Municipal Transportation Agency 2013 Series Revenue Bond Proceeds - Transportation Capital Projects and Equipment - $165,000,000 - FY2013-2014208-1313076511/10/13Health Code - Alternate Water Sources for Non-Potable Applications
+* Amendments to these sections are operative on 1/1/2014; see § 7(b) of the ordinance207-1313086110/11/13Appropriation - Municipal Transportation Agency 2013 Series Revenue Bond Proceeds - Transportation Capital Projects and Equipment - $165,000,000 - FY2013-2014208-1313076511/10/13Health Code - Alternate Water Sources for Non-Potable Applications
 
 Sections Affected:
 Health Code:  851, 854, 855 (Amended)209-1313078511/08/13
@@ -1052,5 +1055,58 @@ Health Code:  851, 854, 855 (Amended)209-1313078511/08/13
 [Oper. 01/01/14]Administrative Code - Family Friendly Workplace Ordinance
 
 Sections Affected:
-Administrative Code:  Ch. 12Z (Added)210-1313086311/10/13Eliminating Official Sidewalk Width - Renovation of Glen Canyon Park - Portion of Elk Street (Between Chenery and Sussex Streets)211-1313058111/10/13Appointment Process - Road Commissioner212-1313058210/11/13Appointment, Road Commissioner - Mohammed Nuru213-1313069610/11/13Settlement of Lawsuit - Jessica Orozco - $50,000214-1313069710/11/13Settlement of Lawsuit - Andrew Melomet - $40,000215-1313075710/11/13Settlement of Lawsuit - Joseph P. Cuviello, Deniz Bolbol, and Alex Felsinger - $180,000216-1313075810/11/13Settlement of Lawsuit - Ana Pichardo - $50,000217-1313075910/11/13Settlement of Lawsuit - Bank of America N.A. - $975,000218-1313080310/11/13Settlement of Lawsuit - Lloyd O'Neil - $185,000219-1313085410/11/13Settlement of Lawsuit - Erik Russell - $30,000220-1313085510/11/13Settlement of Lawsuit - E. Lynn Schoenmann - $160,000
+Administrative Code:  Ch. 12Z, Secs. 12Z.1, 12Z.2, 12Z.3, 12Z.4, 12Z.5, 12Z.6, 12Z.7, 12Z.8, 12Z.9, 12Z.10, 12Z.11, 12Z.12, 12Z.13, 12Z.14, 12Z.15, 12Z.16, 12Z.17, 12Z.18 (Added)210-1313086311/10/13Eliminating Official Sidewalk Width - Renovation of Glen Canyon Park - Portion of Elk Street (Between Chenery and Sussex Streets)211-1313058111/10/13Appointment Process - Road Commissioner212-1313058210/11/13Appointment, Road Commissioner - Mohammed Nuru213-1313069610/11/13Settlement of Lawsuit - Jessica Orozco - $50,000214-1313069710/11/13Settlement of Lawsuit - Andrew Melomet - $40,000215-1313075710/11/13Settlement of Lawsuit - Joseph P. Cuviello, Deniz Bolbol, and Alex Felsinger - $180,000216-1313075810/11/13Settlement of Lawsuit - Ana Pichardo - $50,000217-1313075910/11/13Settlement of Lawsuit - Bank of America N.A. - $975,000218-1313080310/11/13Settlement of Lawsuit - Lloyd O'Neil - $185,000219-1313085410/11/13Settlement of Lawsuit - Erik Russell - $30,000220-1313085510/11/13Settlement of Lawsuit - E. Lynn Schoenmann - $160,000221-1313079012/01/13Business and Tax Regulations, Police Codes - Renting Parking Spaces at Residential Properties to Non-Residents
+
+Sections Affected:
+Business and Tax Regulations Code:  609 (Amended)
+Police Code:  1215 (Amended)222-1313088311/01/13Appropriation - Certificates of Participation - Utility Infrastructure System - Treasure Island - $13,500,000 - FY2013-2014223-1313091212/08/13Collective Bargaining Agreement, Amendment No. 1 - Automotive Machinists Union, Local 1414, Machinists Automotive Trades District 190, International Association of Machinists and Aerospace Workers224-1313091312/08/13Collective Bargaining Agreement, Amendment No. 1 - Crafts Coalition225-1313091412/08/13Collective Bargaining Agreement, Amendment No. 2 - Crafts Coalition226-1313091512/08/13Collective Bargaining Agreement, Amendment No. 1 - San Francisco District Attorney Investigators' Association227-1313091612/08/13Collective Bargaining Agreement, Amendment No. 1 - San Francisco Deputy Probation Officers' Association228-1313091712/08/13Collective Bargaining Agreement, Amendment No. 2 - San Francisco Deputy Probation Officers' Association229-1313091812/08/13Collective Bargaining Agreement, Amendment No. 2 - San Francisco Deputy Sheriffs' Association230-1313091912/08/13Collective Bargaining Agreement, Amendment No. 1 - International Brotherhood of Electrical Workers, Local 6231-1313092012/08/13Collective Bargaining Agreement, Amendment No. 1 - International Federation of Professional and Technical Engineers, AFL-CIO, Local 21232-1313092112/08/13Collective Bargaining Agreement, Amendment No. 2 - International Federation of Professional and Technical Engineers, AFL-CIO, Local 21233-1313092212/08/13Collective Bargaining Agreement, Amendment No. 1 - San Francisco Institutional Police Officers' Association234-1313092312/08/13Collective Bargaining Agreement, Amendment No. 1 - Municipal Attorneys' Association235-1313092412/08/13Collective Bargaining Agreement, Amendment No. 2 - San Francisco Sheriffs' Managers and Supervisors Association236-1313092512/08/13Collective Bargaining Agreement, Amendment No. 1 - Operating Engineers Local Union No. 3 of the International Union of Operating Engineers, AFL-CIO237-1313092612/08/13Collective Bargaining Agreement, Amendment No. 1 - San Francisco City Workers United238-1313092712/08/13Collective Bargaining Agreement, Amendment No. 1 - United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry, Local 38239-1313092812/08/13Collective Bargaining Agreement, Amendment No. 2 - United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry, Local 38240-1313092912/08/13Collective Bargaining Agreement, Amendment No. 1 - Stationary Engineers, Local 39241-1313093012/08/13Collective Bargaining Agreement, Amendment No. 1 - Operating Engineers Local Union No. 3 of the International Union of Operating Engineers, AFL-CIO, Supervising Probation Officers242-1313093112/08/13Collective Bargaining Agreement, Amendment No. 1 - Teamsters, Local 856 (Multi-Unit)243-1313093212/08/13Collective Bargaining Agreement, Amendment No. 2 - Teamsters, Local 856 (Multi-Unit)244-1313093312/08/13Collective Bargaining Agreement, Amendment No. 1 - The Transport Workers Union, AFL-CIO, Local 200245-1313093412/08/13Collective Bargaining Agreement, Amendment No. 2 - The Transport Workers Union, AFL-CIO, Local 200246-1313093512/08/13Collective Bargaining Agreement, Amendment No. 1 - Union of American Physicians and Dentists (Unit 17)247-1313093612/08/13Collective Bargaining Agreement, Amendment No. 1 - Union of American Physicians and Dentists (Unit 18)248-1313037212/08/13Planning Code, Zoning Map - Third Street Formula Retail Restricted Use District
+
+Sections Affected:
+Planning Code:  786 (Added); 303 (Amended)
+Zoning Map:  SU10 (Amended)249-1313058512/08/13Police Code - Large Capacity Magazines; Sales of Firearms and Ammunition; Reporting Lost or Stolen Firearms; Shooting Ranges
+
+Sections Affected:
+Police Code:  619 (Added); 613.10, 615, 616, 1040 (Amended)250-1313058412/08/13Administrative Code - California Benefit Corporation Discount Program - Contract Monitoring Division
+
+Sections Affected:
+Administrative Code:  14C.2, 14C.3 (Amended)251-1313082212/14/13Administrative Code - Mayor's Fund for the Homeless
+
+Sections Affected:
+Administrative Code:  10.100-106 (Amended)252-1313088212/14/13Park Code - Harding Park Golf Course Temporary Reduced Greens Fees
+
+Sections Affected:
+Park Code:  12.12.1 (Amended)253-1313067312/14/13Naming a Portion of the Carolina Street Stairway as Jack Balestreri Way - Carolina and 20th Street254-1313083612/14/13Building Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition255-1313083712/14/13Building Code - Residential Building Requirements256-1313083812/14/13Electrical Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition257-1313083912/14/13Mechanical Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition258-1313084012/14/13Plumbing Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition259-1313084112/14/13Green Building Code - Enactment of New Code260-1313081412/14/13Public Works Code - Control of Construction Site Runoff
+
+Sections Affected:
+Public Works Code:  146, 146.1, 146.2, 146.3, 146.4, 146.5, 146.6, 146.7, 146.8, 146.9, 146.10, 146.11 (Added)261-1313008412/27/13Planning Code, Zoning Map - Establishing the Excelsior Outer Mission Street Neighborhood Commercial District
+
+Sections Affected:
+Planning Code:  745.1 (Added); 201, 207.4, 249.35, 263.20, 607.1, 702.1, 702.3 (Amended); 785 (Repealed)
+Zoning Map:  ZN08 (Amended)262-1313040012/27/13Health Code - Massage Practitioners
+
+Sections Affected:
+Health Code:  29.1, 29.2, 29.3, 29.4, 29.5, 29.6, 29.7, 29.8, 29.9, 29.10, 29.11, 29.12, 29.13, 29.14, 29.15, 29.16, 29.17, 29.18, 29.19, 29.20, 29.21, 29.22, 29.23, 29.24, 29.25, 29.26, 29.27, 29.28, 29.29, 29.30, 29.31, 29.32 (Added); 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910, 1912, 1913, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1925, 1926, 1927, 1928, 1928.1, 1928.2, 1929, 1930, 1931 (Amended and/or Renumbered); 1911, 1914, 1924 (Repealed)263-1313054912/27/13Planning Code - Controller's Reports
+
+Sections Affected:
+Planning Code:  409, 413.6, 415.5, 418.5, 418.7, 420.6, 421.5, 422.5, 423.5, 424.5 (Amended)264-1313073412/27/13Administrative Code - Planning Commission Review of Medical Cannabis Dispensary Location Regulations
+
+Sections Affected:
+Administrative Code:  2A.54 (Added)265-1313076612/27/13Park Code - Hours of Operation for City Parks
+
+Sections Affected:
+Park Code:  3.21 (Added); 3.03 (Amended)266-1313078912/27/13Health Code - Licensing and Regulations of Massage Establishments and Practitioners
+
+Sections Affected:
+Health Code:  29.6, 29.11, 29.12, 29.27 (Amended)267-1313079912/27/13Administrative Code - Airport Capital Improvement Promotion and Event Fund
+
+Sections Affected:
+Administrative Code:  10.100-18 (Amended)268-1313093712/27/13Administrative Code - Film Production Daily Use Fees; Film Rebate Program
+
+Sections Affected:
+Administrative Code:  57.5, 57.8 (Amended)269-1313079712/27/13Contract Amendment - Dominion Voting Systems, Inc. - Not to Exceed $19,690,933.25270-1313086012/27/13Appropriation - Parking Garage Revenue and Expenditure - $13,786,681 - FY2013-2014271-1313103112/27/13
+
+[Oper. 01/01/14]Business and Tax Regulations Code - Business Tax Installment Payments; Combined Reporting; Special Assessments
+
+Sections Affected:
+Business and Tax Regulations Code:  6.1-1, 6.2-17, 6.6-1, 6.9-3, 6.9-5, 6.17-1, 6.17-2, 6.17-3, 6.21-1, 907, 956.3 (Amended)272-1313095511/27/13Settlement of Administrative Enforcement Action - San Francisco Bay Regional Water Quality Control Board - $608,310273-1313095611/27/13Settlement of Lawsuit - Carlos Hutcherson, et al. - $125,000274-1313101311/27/13Settlement of Lawsuits - Zeno Zimmerman - $145,000275-1313101411/27/13Settlement of Lawsuit - Calkin, et al. - $862,500276-1313103311/27/13California Code of Civil Procedure, Section 998 - Offer to Compromise to Defendants - Anshen and Allen, Architects Inc.
 Ordinances that amend the Municipal Code and are not yet effective have their identifiying information highlighted in yellow. Changes made by those ordinances are not incorporated into the text of the Code until the amending ordinances are effective.
